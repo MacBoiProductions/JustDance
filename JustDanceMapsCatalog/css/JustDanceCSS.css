@@ -1,0 +1,21 @@
+#header {
+    background: rgb(226,53,64);
+    background: linear-gradient(180deg, rgba(226,53,64,1) 0%, rgba(162,24,128,1) 57%, rgba(59,25,200,1) 100%);
+    outline: 10px;
+}
+
+#body {
+    background-color:black;
+}
+
+#JD1 {
+    background-color: #AC0A0B;
+}
+
+#JD2023E {
+    background-color:#282261;
+}
+
+#JDWii {
+    background-color: black;
+}
